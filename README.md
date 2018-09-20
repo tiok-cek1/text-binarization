@@ -7,11 +7,27 @@ paper source:
 note:
 implementation differs from the papers
 
-<img src="https://github.com/tiok-cek1/text-binarization/raw/master/sample/img1.png" height=100 />
+<div>
+<img src="https://github.com/tiok-cek1/text-binarization/raw/master/sample/img1.png" height=100 style="float:left" />
 <img src="https://github.com/tiok-cek1/text-binarization/raw/master/sample/img1_result.png" height=100 />
+</div>
 
-<img src="https://github.com/tiok-cek1/text-binarization/raw/master/sample/bigtext.jpg" height=100 />
+<div>
+<img src="https://github.com/tiok-cek1/text-binarization/raw/master/sample/img2.png" height=100 style="float:left" />
+<img src="https://github.com/tiok-cek1/text-binarization/raw/master/sample/img2_result.png" height=100 />
+</div>
+
+<div>
+<img src="https://github.com/tiok-cek1/text-binarization/raw/master/sample/img3.png" height=100 style="float:left" />
+<img src="https://github.com/tiok-cek1/text-binarization/raw/master/sample/img3_result.png" height=100 />
+</div>
+
+<div>
+<img src="https://github.com/tiok-cek1/text-binarization/raw/master/sample/bigtext.jpg" height=100 style="float:left" />
 <img src="https://github.com/tiok-cek1/text-binarization/raw/master/sample/bigtext_result.png" height=100 />
+</div>
 
-<img src="https://github.com/tiok-cek1/text-binarization/raw/master/sample/tips.jpg" height=100 />
+<div>
+<img src="https://github.com/tiok-cek1/text-binarization/raw/master/sample/tips.jpg" height=100 style="float:left" />
 <img src="https://github.com/tiok-cek1/text-binarization/raw/master/sample/tips_result.png "height=100 />
+</div>
