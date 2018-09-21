@@ -1,4 +1,4 @@
-# text-binarization
+# Adaptive Method For Multi Colored Text Binarization
 
 paper source:
 - https://www.researchgate.net/publication/318123092_Adaptive_method_for_multi_colored_text_binarization
@@ -6,6 +6,10 @@ paper source:
 
 note:
 implementation differs from the papers
+- Canny threshold 100, 100
+- Discard area < 4 (paper 15)
+- Inner edge box counted when area >= 20
+- Point 5 using K = 5 (paper 20), accepts large text
 
 <div>
 <img src="https://github.com/tiok-cek1/text-binarization/raw/master/sample/img1.png" height=100 style="float:left" />
