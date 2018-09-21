@@ -7,7 +7,8 @@ paper source:
 note:
 implementation differs from the papers
 - Canny threshold 100, 100
-- Discard area < 4 (paper 15)
+- Discard edge box area < 4 (paper 15)
+- Discard edge box width / height > 5 (paper 10)
 - Inner edge box counted when area >= 20
 - Point 5 using K = 5 (paper 20), accepts large text
 
